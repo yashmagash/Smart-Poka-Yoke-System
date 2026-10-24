@@ -1,1 +1,0 @@
-# Smart-Poka-Yoke-System
